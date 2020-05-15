@@ -1,0 +1,22 @@
+{
+ "name": "example_private",
+ "description": "Enter your project description",
+ "author": {
+  "name": "Travis McLane",
+  "email": "tmclane@gmail.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "example_private",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ },
+ "WailsVersion": "",
+ "CrossCompile": false,
+ "Platform": "",
+ "Architecture": "",
+ "ServePort": ""
+}

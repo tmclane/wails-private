@@ -1,0 +1,9 @@
+
+Interface Backend {
+}
+
+declare global {
+	interface Window {
+		backend: Backend;
+	}
+}
